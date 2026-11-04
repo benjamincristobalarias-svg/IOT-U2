@@ -8,6 +8,8 @@ Dos celulares se comunican por **WiFi o datos móviles a través de Firebase**: 
 
 **Informe:** [`docs/Informe_Sumativa_U2_sabu_rodriguez_arias.docx`](docs/Informe_Sumativa_U2_sabu_rodriguez_arias.docx)
 
+**Evidencia con dos celulares:** [`docs/Evidencia_Fotos_U2_sabu_rodriguez_arias.docx`](docs/Evidencia_Fotos_U2_sabu_rodriguez_arias.docx)
+
 **Hecha con:** Android Studio, Kotlin, Jetpack Compose, ViewModel, Firebase Authentication y Firebase Realtime Database.
 
 ## Pantallas
