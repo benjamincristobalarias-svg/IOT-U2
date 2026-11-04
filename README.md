@@ -6,6 +6,8 @@ App que monitorea el estado de estructuras (edificios, puentes) a partir de su f
 
 Dos celulares se comunican por **WiFi o datos móviles a través de Firebase**: uno hace de sensor (**Activador**) y el otro ve los datos en vivo (**Monitoreo**).
 
+**Informe:** [`docs/Informe_Sumativa_U2_sabu_rodriguez_arias.docx`](docs/Informe_Sumativa_U2_sabu_rodriguez_arias.docx)
+
 **Hecha con:** Android Studio, Kotlin, Jetpack Compose, ViewModel, Firebase Authentication y Firebase Realtime Database.
 
 ## Pantallas
